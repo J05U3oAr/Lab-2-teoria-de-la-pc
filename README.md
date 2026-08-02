@@ -26,7 +26,7 @@ Carpeta del segundo ejercicio. Aqui esta el programa que revisa si los parentesi
 Carpeta del tercer ejercicio. Aqui esta el programa que convierte expresiones regulares de notacion infija a notacion postfix.
 
 - `Ejercicio3.py`: script principal del ejercicio 3. Tokeniza las expresiones, agrega concatenaciones explicitas, valida la sintaxis, aplica Shunting Yard y convierte extensiones como `+`, `?` y `{m,n}` a operaciones basicas.
-- `explicacion_shunting_yard.txt`: texto corto que explica como funciona el algoritmo Shunting Yard y como se adapta para las expresiones regulares del ejercicio.
+- `explicacion_shunting_yard.docx`: texto corto que explica como funciona el algoritmo Shunting Yard y como se adapta para las expresiones regulares del ejercicio.
 - `expresiones.txt`: archivo de entrada con expresiones regulares usadas para probar la conversion a postfix.
 
 ### `Ejercicio_3/__pycache__/`
