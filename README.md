@@ -1,4 +1,4 @@
-# Lab 2
+# Lab 2 Arodi Chávez 
 
 Este repositorio contiene los archivos trabajados para el laboratorio. La idea general es probar dos cosas: primero, revisar si una expresion tiene sus simbolos balanceados; segundo, convertir expresiones regulares a formato postfix usando el algoritmo Shunting Yard.
 
